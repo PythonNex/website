@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ site.name }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Custom CSS -->
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/css/app.css">
+    </head>
+    <body>
+      <div id="wrap">
+        <div class="container">
+          <div class="header">
+            <div class="row">
+              <div class="col-md-6">
+                <h1>
+                  <a class="extra" href="/en">
+                    <img src="/assets/images/cabinet-dentaire-barthelemy.png" alt="Cabinet Dentaire Barthelemy" />
+                  </a>
+                </h1>
+              </div>
+              <div class="col-md-3">
+                <div>
+                  T. +41 22 363 11 00<br />
+                  F. +41 22 363 11 02
+                </div>
+              </div>
+              <div class="col-md-3">
+                <address>
+                  Rue Juste-Olivier 8<br />
+                  1260 Nyon, Suisse<br />
+                  <a href="mailto:mail@dentistebarthelemy.ch">mail@dentistebarthelemy.ch</a>
+                </address>
+              </div>
+            </div>
+
+            <nav>
+              <ul class="nav nav-pills">
+                {% if page.lang == 'en' %}
+                  <li><a href="/en/index.html">Home</a></li>
+                  <li><a href="/en/healthcare-team.html">Healthcare Team </a></li>
+                  <li><a href="/en/our-treatments.html">Treatments</a></li>
+                  <li><a href="/en/pictures.html">Pictures</a></li>
+                  <li><a href="/en/contact-us.html">Contact</a></li>
+                {% else %}
+                  <li><a href="/fr/index.html">Accueil</a></li>
+                  <li><a href="/fr/equipe-soignante.html">Equipe soignante</a></li>
+                  <li><a href="/fr/nos-traitements.html">Traitements</a></li>
+                  <li><a href="/fr/le-cabinet-en-images.html">Photos</a></li>
+                  <li><a href="/fr/contact.html">Contact</a></li>
+                {% endif %}
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+        <div class="content">
+          <div class="container">
+            {{ content }}
+          </div>
+        </div>
+
+        <div class="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-10">
+                {% if page.lang == 'en' %}
+                  {% include copyright-en.html %}
+                {% else %}
+                  {% include copyright-fr.html %}
+                {% endif %}
+              </div>
+              <div class="col-md-2 change-language">
+                <a href="/en">ENG</a> | <a href="/fr">FRA</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </body>
+</html>

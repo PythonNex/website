@@ -1,0 +1,4 @@
+name: Cabinet Dentaire Barthelemy
+markdown: redcarpet
+pygments: true
+include: ['fr', 'en', 'assets', 'photos']

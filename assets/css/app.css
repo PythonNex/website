@@ -13,3 +13,8 @@ ul.nav li {
 ul.nav li:last-child {
   border: none;
 }
+
+/** FOOTER */
+div.footer {
+  margin-top: 40px;
+}

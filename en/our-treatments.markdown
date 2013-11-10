@@ -6,11 +6,15 @@ title:  "Our treatments"
 
 # Our treatments
 
-<div class="row">
-  <div class="col-md-4">
-    one pic
-  </div>
-  <div class="col-md-8">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, *quis* nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </div>
-</div>
+All dental medicine specialities are covered in order to offer our patients the best solutions.
+
+ * General dentistry
+ * Composite resin fillings and esthetic dentistry
+ * Hygienist and Teeth whitening
+ * Oral surgery
+ * Implantology
+ * Periodontology
+ * Pediatric dentistry
+ * Dental protheses
+
+The expert service offered by our dental office is based on the concept of quality. We mainly work with Swiss suppliers and laboratories.

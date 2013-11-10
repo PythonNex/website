@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Contact us
+slug: contact
 ---
 
 # Contact us

@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Pictures
+slug: pictures
 ---
 
 <div class="row">

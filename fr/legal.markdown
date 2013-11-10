@@ -1,6 +1,8 @@
 ---
 layout: default
 lang: fr
+title: Légal
+slug: legal
 ---
 
 #MENTIONS LEGALES

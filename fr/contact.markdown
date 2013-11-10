@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Contact
+slug: contact
 ---
 
 #Contact

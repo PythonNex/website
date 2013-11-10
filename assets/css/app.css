@@ -1,20 +1,16 @@
 div.container {
-  width: 1000px;
+  max-width: 1000px;
 }
 
-div.change-language {
-  text-align: right;
-}
-
-ul.nav li {
-  border-right: 1px solid #000;
-}
-
-ul.nav li:last-child {
-  border: none;
+/** CONTENT */
+div.content img {
+  width: 100%;
 }
 
 /** FOOTER */
 div.footer {
   margin-top: 40px;
+}
+div.footer div.change-language {
+  text-align: right;
 }

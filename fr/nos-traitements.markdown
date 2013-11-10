@@ -1,6 +1,8 @@
 ---
 layout: default
 lang: fr
+title: Nos traitements
+slug: treatments
 ---
 
 #Nos Traitements

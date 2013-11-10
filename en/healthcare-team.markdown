@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Healthcare team
+slug: team
 ---
 
 #Equipe soignante

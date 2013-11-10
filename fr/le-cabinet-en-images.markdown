@@ -1,6 +1,8 @@
 ---
 layout: default
 lang: fr
+title: Le cabinet en images
+slug: pictures
 ---
 
 <div class="row">

@@ -9,6 +9,9 @@
         <!-- Custom CSS -->
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="/assets/css/app.css">
+
+        <script type="text/javascript" src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
     </head>
     <body>
       <div id="wrap">
@@ -42,7 +45,7 @@
               </div>
             </div>
 
-            <nav>
+            <!-- nav class="hidden-mobile">
               <ul class="nav nav-pills">
                 {% if page.lang == 'en' %}
                   <li><a href="/en/index.html">Home</a></li>
@@ -58,7 +61,8 @@
                   <li><a href="/fr/contact.html">Contact</a></li>
                 {% endif %}
               </ul>
-            </nav>
+            </nav -->
+              {% include navigation.html %}
           </div>
         </div>
 

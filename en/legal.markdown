@@ -1,7 +1,8 @@
 ---
 layout: default
 lang: en
-title:  "Legal notice"
+title: Legal notice
+slug: legal
 ---
 
 # Legal notice

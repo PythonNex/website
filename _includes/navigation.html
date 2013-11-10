@@ -1,0 +1,51 @@
+<nav class="navbar navbar-default" role="navigation">
+  <!-- Brand and toggle get grouped for better mobile display -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <!--a class="navbar-brand" href="#">Brand</a -->
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+      {% if page.lang == 'en' %}
+        <li{% if page.slug == 'home' %} class="active"{% endif %} >
+          <a href="/en/index.html">Home</a>
+        </li>
+        <li{% if page.slug == 'team' %} class="active"{% endif %} >
+          <a href="/en/healthcare-team.html">Healthcare Team </a>
+        </li>
+        <li{% if page.slug == 'treatments' %} class="active"{% endif %} >
+          <a href="/en/our-treatments.html">Treatments</a>
+        </li>
+        <li{% if page.slug == 'pictures' %} class="active"{% endif %} >
+          <a href="/en/pictures.html">Pictures</a>
+        </li>
+        <li{% if page.slug == 'contact' %} class="active"{% endif %} >
+          <a href="/en/contact-us.html">Contact</a>
+        </li>
+      {% else %}
+        <li{% if page.slug == 'home' %} class="active"{% endif %} >
+          <a href="/fr/index.html">Accueil</a>
+        </li>
+        <li{% if page.slug == 'team' %} class="active"{% endif %} >
+          <a href="/fr/equipe-soignante.html">Equipe soignante</a>
+        </li>
+        <li{% if page.slug == 'treatments' %} class="active"{% endif %} >
+          <a href="/fr/nos-traitements.html">Traitements</a>
+        </li>
+        <li{% if page.slug == 'pictures' %} class="active"{% endif %} >
+          <a href="/fr/le-cabinet-en-images.html">Photos</a>
+        </li>
+        <li{% if page.slug == 'contact' %} class="active"{% endif %} >
+          <a href="/fr/contact.html">Contact</a>
+        </li>
+      {% endif %}
+    </ul>
+  </div><!-- /.navbar-collapse -->
+</nav>

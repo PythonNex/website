@@ -1,6 +1,8 @@
 ---
 layout: default
 lang: fr
+title: Equipe soignante
+slug: team
 ---
 
 #Equipe soignante

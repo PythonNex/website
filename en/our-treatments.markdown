@@ -1,7 +1,8 @@
 ---
 layout: default
 lang: en
-title:  "Our treatments"
+title: Our treatments
+slug: treatments
 ---
 
 # Our treatments

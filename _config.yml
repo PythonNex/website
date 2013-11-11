@@ -1,4 +1,5 @@
 name: Cabinet Dentaire Barthelemy
+short_name: Dentiste Barthelemy
 markdown: redcarpet
 pygments: true
 include: ['fr', 'en', 'assets', 'photos']

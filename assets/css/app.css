@@ -7,6 +7,14 @@ div.content img {
   width: 100%;
 }
 
+/** NAV */
+a.navbar-brand {
+  padding: 5px;
+}
+a.navbar-brand img {
+  height: 40px;
+}
+
 /** FOOTER */
 div.footer {
   margin-top: 40px;

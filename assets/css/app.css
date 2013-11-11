@@ -2,9 +2,21 @@ div.container {
   max-width: 1000px;
 }
 
+/** HEADER */
+div.top-header {
+  margin-top: 20px;
+}
+
+div.top-header h1 {
+  margin-top: 0;
+}
+
 /** CONTENT */
 div.content img {
   width: 100%;
+}
+div.content div.team {
+  margin-bottom: 20px;
 }
 
 /** NAV */
@@ -17,7 +29,7 @@ a.navbar-brand img {
 
 /** FOOTER */
 div.footer {
-  margin-top: 40px;
+  margin: 40px 0;
 }
 div.footer div.change-language {
   text-align: right;

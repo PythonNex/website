@@ -26,22 +26,10 @@
                 </h1>
               </div>
               <div class="col-sm-4">
-                <div>
-                  T. +41 22 363 11 00<br />
-                  F. +41 22 363 11 02<br />
-                  {% if page.lang == 'en' %}
-                    <a href="/en/contact-us.html">Opening hours</a>
-                  {% else %}
-                    <a href="/fr/contact.html">Heures d'ouverture</a>
-                  {% endif %}
-                </div>
+                {% include contact_header.html %}
               </div>
               <div class="col-sm-4">
-                <address>
-                  Rue Juste-Olivier 8<br />
-                  1260 Nyon, Suisse<br />
-                  <a href="mailto:mail@dentistebarthelemy.ch">mail@dentistebarthelemy.ch</a>
-                </address>
+                {% include address_header.html %}
               </div>
             </div>
             {% include navigation.html %}

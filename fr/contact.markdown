@@ -9,8 +9,7 @@ slug: contact
   <div class="col-md-5">
     <h4>Cabinet Dentaire Barthelemy</h4>
     {% include address_header.html %}
-    
-    
+
     <h4>Heures d'ouverture</h4>
     <table class="table">
       <tr>
@@ -46,7 +45,7 @@ slug: contact
       <li>1 minute à pied de la gare</li>
     </ul>
     <a href="https://maps.google.ch/maps?f=q&source=s_q&hl=fr&geocode=&q=Rue+Juste-Olivier+8,+1260+Nyon&aq=&sll=46.44716,6.449102&sspn=0.81848,2.113495&t=m&ie=UTF8&hq=&hnear=Rue+Juste+Olivier+8,+1260+Nyon,+Vaud&z=16&iwloc=A&output=embed">
-      <img src="/photos/map.png" alt="Nous trouver" />
+      <img src="/photos/map.jpg" alt="Nous trouver" />
     </a>
   </div>
 </div>

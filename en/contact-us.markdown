@@ -5,17 +5,12 @@ title: Contact us
 slug: contact
 ---
 
-# Contact us
-
-<img src="/photos/nyon-lac-rive.jpg" alt="Nyon Lac Rive" />
-
 <div class="row">
-  <div class="col-md-7 hidden-xs">
-    <iframe src="https://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Rue+Juste-Olivier+8,+1260+Nyon&amp;aq=&amp;sll=46.44716,6.449102&amp;sspn=0.81848,2.113495&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Rue+Juste+Olivier+8,+1260+Nyon,+Vaud&amp;z=16&amp;iwloc=A&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="560" height="450"></iframe>
-  </div>
   <div class="col-md-5">
-        {% include address_header.html %}
-    <h2>Opening hours</h2>
+    <h4>Cabinet Dentaire Barthelemy</h4>
+    {% include address_header.html %}
+
+    <h4>Opening hours</h4>
     <table role="table">
       <tr>
         <th>Monday</th>
@@ -42,8 +37,15 @@ slug: contact
         <td>8h - 13h</td>
       </tr>
     </table>
-
-    <p>Perdtemps parking at 150 meters</p>
-    <p>1 minute walk from the station</p>
+  </div>
+  <div class="col-md-7">
+    <h4>Find us</h4>
+    <ul>
+      <li>Perdtemps parking at 150 meters</li>
+      <li>1 minute walk from the station</li>
+    </ul>
+    <a href="https://maps.google.ch/maps?f=q&source=s_q&hl=fr&geocode=&q=Rue+Juste-Olivier+8,+1260+Nyon&aq=&sll=46.44716,6.449102&sspn=0.81848,2.113495&t=m&ie=UTF8&hq=&hnear=Rue+Juste+Olivier+8,+1260+Nyon,+Vaud&z=16&iwloc=A&output=embed">
+      <img src="/photos/map.jpg" alt="Nous trouver" />
+    </a>
   </div>
 </div>

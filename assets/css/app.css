@@ -48,3 +48,16 @@ div.footer {
 div.footer div.change-language {
   text-align: right;
 }
+
+div.footer div.social {
+    text-align: center;
+}
+div.footer div.social a {
+    margin-right: 10px;
+}
+div.footer div.social a:hover {
+    text-decoration: none;
+}
+div.footer div.social a img {
+    width: 25px;
+}

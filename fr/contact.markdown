@@ -10,6 +10,9 @@ slug: contact
     <h4>Cabinet Dentaire Barthelemy</h4>
     {% include address_header.html %}
 
+    T. +41 22 363 11 00<br />
+    F. +41 22 363 11 02<br />
+
     <h4>Heures d'ouverture</h4>
     <table class="table">
       <tr>

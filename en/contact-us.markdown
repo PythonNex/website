@@ -9,6 +9,7 @@ slug: contact
   <div class="col-md-5">
     <h4>Cabinet Dentaire Barthelemy</h4>
     {% include address_header.html %}
+    {% include contact_header.html %}
 
     <h4>Opening hours</h4>
     <table role="table">

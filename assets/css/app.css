@@ -18,6 +18,9 @@ div.content img {
 div.content div.team {
   margin-bottom: 20px;
 }
+div.content div.menu-contact {
+    margin-bottom: 20px;
+}
 
 /** NAV */
 a.navbar-brand {

@@ -45,12 +45,8 @@
         <div class="footer">
           <div class="container">
             <div class="row">
-              <div class="col-md-10">
-                {% if page.lang == 'en' %}
-                  {% include copyright-en.html %}
-                {% else %}
-                  {% include copyright-fr.html %}
-                {% endif %}
+              <div class="col-md-10 hidden-xs">
+                {% include copyright.html %}
               </div>
               <div class="col-md-2 change-language">
                 <a href="/en">ENG</a> | <a href="/fr">FRA</a>

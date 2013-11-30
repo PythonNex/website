@@ -1,0 +1,20 @@
+<div class="visible-xs menu-contact">
+  <div class="btn-group btn-group-justified">
+    <a href="/fr/contact.html" class="btn btn-default btn-primary">
+      <span class="glyphicon glyphicon-earphone"></span>
+
+      {% if page.lang == 'en' %}
+        Call now
+      {% else %}
+        Appeler
+      {% endif %}
+    </a>
+    <a href="/fr/contact.html" class="btn btn-default">
+      {% if page.lang == 'en' %}
+        Find us
+      {% else %}
+        Nous trouver
+      {% endif %}
+    </a>
+  </div>
+</div>

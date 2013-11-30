@@ -7,6 +7,17 @@ div.top-header {
   margin-top: 20px;
 }
 
+nav.navbar.navbar-default {
+    border: none;
+    background: none;
+    border-bottom: 2px solid #e7e7e7;
+    padding-bottom: 5px;
+}
+
+div.collapse.navbar-collapse {
+    padding-left: 0;
+}
+
 div.top-header h1 {
   margin-top: 0;
 }

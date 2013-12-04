@@ -5,6 +5,8 @@ title: Pictures
 slug: pictures
 ---
 
+<h1>Pictures</h1>
+
 <div class="row">
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">

@@ -8,12 +8,12 @@
         Appeler
       {% endif %}
     </a>
-    <a href="/fr/contact.html" class="btn btn-default">
-      {% if page.lang == 'en' %}
-        Find us
-      {% else %}
-        Nous trouver
-      {% endif %}
+
+    {% if page.lang == 'en' %}
+      <a href="/en/contact-us.html" class="btn btn-default">Find us</a>
+    {% else %}
+      <a href="/fr/contact.html" class="btn btn-default">Nous trouver</a>
+    {% endif %}
     </a>
   </div>
 </div>

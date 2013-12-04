@@ -1,3 +1,7 @@
+h1 {
+  font-size: 30px;
+}
+
 div.container {
   max-width: 1000px;
 }
@@ -8,27 +12,31 @@ div.top-header {
 }
 
 nav.navbar.navbar-default {
-    border: none;
-    background: none;
-    border-bottom: 2px solid #e7e7e7;
-    padding-bottom: 5px;
+  border: none;
+  background: none;
+  border-bottom: 2px solid #e7e7e7;
+  padding-bottom: 5px;
 }
 
 div.collapse.navbar-collapse {
     padding-left: 0;
 }
 
-div.top-header h1 {
-  margin-top: 0;
-}
-
 /** CONTENT */
+div.content h1 {
+  margin: 0 0 20px 0;
+}
 div.content img {
   width: 100%;
 }
 div.content div.team {
   margin-bottom: 20px;
 }
+div.content div.team img {
+  width: 130px;
+  margin-bottom: 10px;
+}
+
 div.content div.menu-contact {
     margin-bottom: 20px;
 }
@@ -50,14 +58,14 @@ div.footer div.change-language {
 }
 
 div.footer div.social {
-    text-align: center;
+  text-align: center;
 }
 div.footer div.social a {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 div.footer div.social a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 div.footer div.social a img {
-    width: 25px;
+  width: 25px;
 }

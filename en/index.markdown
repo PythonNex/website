@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+title: Welcome
 slug: home
 ---
 

@@ -8,11 +8,11 @@ slug: team
 <h1>Equipe soignante</h1>
 
 <div class="row team">
-  <div class="col-sm-3">
-    <img class="media-object" src="/photos/team/dr-jonathan-barthelemy.png" alt="Dr JONATHAN BARTHELEMY">
+  <div class="col-sm-2">
+    <img src="/photos/team/dr-jonathan-barthelemy.png" alt="Dr JONATHAN BARTHELEMY">
   </div>
-  <div class="col-sm-9">
-    <h4 class="media-heading"><h3>Dr JONATHAN BARTHELEMY</h3></h4>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Dr Jonathan Barthelemy</h4>
     Dr, Médecin-Dentiste<br />
     Omnipraticien, diplômé en 2006<br />
     Assistant à l'université de Genève en endodontie de 2006 à 2009<br />
@@ -24,11 +24,11 @@ slug: team
 </div>
 
 <div class="row team">
-  <div class="col-sm-3">
-    <img class="media-object" src="/photos/team/carla.png" alt="Carla">
+  <div class="col-sm-2">
+    <img src="/photos/team/carla.png" alt="Carla">
   </div>
-  <div class="col-sm-9">
-    <h4 class="media-heading"><h3>CARLA</h3></h4>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Carla</h4>
     Assistante dentaire diplômée en 1985
   </div>
 </div>

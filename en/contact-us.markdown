@@ -9,33 +9,37 @@ slug: contact
   <div class="col-md-5">
     <h4>Cabinet Dentaire Barthelemy</h4>
     {% include address_header.html %}
-    {% include contact_header.html %}
+
+    <div class="contact">
+      T. +41 22 363 11 00<br />
+      F. +41 22 363 11 02
+    </div>
 
     <h4>Opening hours</h4>
-    <table role="table">
+    <table class="table">
       <tr>
         <th>Monday</th>
-        <td>10h - 20h</td>
+        <td>10am - 8pm</td>
       </tr>
       <tr>
         <th>Tuesday</th>
-        <td>8h - 17h</td>
+        <td>8am - 5pm</td>
       </tr>
       <tr>
         <th>Wednesday</th>
-        <td>8h - 17h</td>
+        <td>8am - 5pm</td>
       </tr>
       <tr>
         <th>Thursday</th>
-        <td>8h - 17h</td>
+        <td>8am - 5pm</td>
       </tr>
       <tr>
         <th>Friday</th>
-        <td>8h - 17h</td>
+        <td>8am - 5pm</td>
       </tr>
       <tr>
         <th>Saturday</th>
-        <td>8h - 13h</td>
+        <td>8am - 1pm</td>
       </tr>
     </table>
   </div>

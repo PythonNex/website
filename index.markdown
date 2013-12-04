@@ -4,8 +4,6 @@ lang: fr
 slug: home
 ---
 
-<div class="visible-xs">
-  {% include contact_header.html %}
-</div>
+{% include menu-contact.html %}
 
 ![Nyon Chateau](/photos/nyon-chateau.jpg)

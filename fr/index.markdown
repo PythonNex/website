@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+title: Bienvenue
 slug: home
 ---
 

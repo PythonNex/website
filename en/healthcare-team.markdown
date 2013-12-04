@@ -8,10 +8,10 @@ slug: team
 #Healthcare team
 
 <div class="row team">
-  <div class="col-sm-3">
-    <img class="media-object" src="/photos/team/dr-jonathan-barthelemy.png" alt="Dr JONATHAN BARTHELEMY">
+  <div class="col-sm-2">
+    <img class="media-object" src="/photos/team/dr-jonathan-barthelemy.jpg" alt="Dr JONATHAN BARTHELEMY">
   </div>
-  <div class="col-sm-9">
+  <div class="col-sm-10">
     <h4 class="media-heading"><h3>Dr JONATHAN BARTHELEMY</h3></h4>
     General dentist
     Graduated at the faculty of Dentistry, Liege (BE) 2006
@@ -24,10 +24,10 @@ slug: team
 </div>
 
 <div class="row team">
-  <div class="col-sm-3">
-    <img class="media-object" src="/photos/team/carla.png" alt="Carla">
+  <div class="col-sm-2">
+    <img class="media-object" src="/photos/team/carla.jpg" alt="Carla">
   </div>
-  <div class="col-sm-9">
+  <div class="col-sm-10">
     <h4 class="media-heading"><h3>CARLA</h3></h4>
     Dental assistant graduated since 1985
   </div>

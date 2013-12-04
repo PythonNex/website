@@ -9,7 +9,7 @@ slug: team
 
 <div class="row team">
   <div class="col-sm-2">
-    <img class="media-object" src="/photos/team/dr-jonathan-barthelemy.jpg" alt="Dr JONATHAN BARTHELEMY">
+    <img class="media-object" src="/photos/team/dr_barthelemy.jpg" alt="Dr JONATHAN BARTHELEMY">
   </div>
   <div class="col-sm-10">
     <h4 class="media-heading"><h3>Dr JONATHAN BARTHELEMY</h3></h4>

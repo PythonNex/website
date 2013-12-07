@@ -3,3 +3,6 @@ short_name: Dentiste Barthelemy
 markdown: redcarpet
 pygments: true
 include: ['fr', 'en', 'assets', 'photos']
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass

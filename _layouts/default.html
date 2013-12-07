@@ -6,12 +6,7 @@
         <title>{{ site.name }} - {{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Custom CSS -->
-        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="/assets/css/app.css">
-
-        <script type="text/javascript" src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
-        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+        {% stylesheet application %}
     </head>
     <body>
       <div id="wrap">
@@ -21,7 +16,7 @@
               <div class="col-sm-4">
                 <div class="title">
                   <a class="extra" href="/{{ page.lang }}">
-                    <img src="/assets/images/logo-big.png" alt="Cabinet Dentaire Barthelemy" />
+                    <img src="{{ 'logo-big.png' | asset_path }}" alt="Cabinet Dentaire Barthelemy" />
                   </a>
                 </div>
               </div>
@@ -55,13 +50,13 @@
               </div>
               <div class="col-md-4 social">
                 <a href="https://www.facebook.com/cdbarthelemy">
-                  <img src="/assets/images/facebook.png" alt="Facebook">
+                  <img src="{{ 'facebook.png' | asset_path }}" alt="Facebook" />
                 </a>
                 <a href="https://plus.google.com/105682578784316957350/about">
-                  <img src="/assets/images/googleplus.png" alt="Google+">
+                  <img src="{{ 'googleplus.png' | asset_path }}" alt="Google+" />
                 </a>
                 <a href="http://www.pinterest.com/cdbarthelemy">
-                  <img src="/assets/images/pinterest.png" alt="Pinterest">
+                  <img src="{{ 'pinterest.png' | asset_path }}" alt="Pinterest" />
                 </a>
               </div>
               <div class="col-md-4 change-language">
@@ -70,5 +65,7 @@
           </div>
         </div>
       </div>
+
+      {% javascript application %}
     </body>
 </html>

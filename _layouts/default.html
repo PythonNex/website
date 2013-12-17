@@ -8,6 +8,10 @@
         <meta name="description" content="{{ page.description }}">
         <meta name="author" content="Cabinet dentaire Barthelemy">
 
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:image" content="http://www.dentistebarthelemy.ch{{ 'logo-big.png' | asset_path }}">
+        <meta property="og:locale" content="{{ page.lang }}" />
+
         {% stylesheet application %}
     </head>
     <body>

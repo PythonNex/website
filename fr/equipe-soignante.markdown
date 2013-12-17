@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Equipe soignante
+description: Découvrez votre équipe soignate
 slug: team
 ---
 

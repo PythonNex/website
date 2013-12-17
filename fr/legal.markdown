@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Légal
+description: Nos mentions légales
 slug: legal
 ---
 

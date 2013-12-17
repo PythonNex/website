@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Contact
+description: Contactez nous et trouvez nos heures d'ouverture
 slug: contact
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Our treatments
+description: All dental medicine specialities are covered in order to offer our patients the best solutions.
 slug: treatments
 ---
 

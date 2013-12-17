@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Healthcare team
+description: Find our healthcare team
 slug: team
 ---
 

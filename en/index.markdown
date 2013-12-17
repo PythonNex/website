@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Welcome
+description: Densite in Nyon
 slug: home
 ---
 

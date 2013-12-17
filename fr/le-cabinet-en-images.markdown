@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Le cabinet en images
+description: Découvrez le cabinet en images
 slug: pictures
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 lang: en
 title: Legal notice
+description: Our legal notice
 slug: legal
 ---
 

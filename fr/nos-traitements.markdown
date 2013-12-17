@@ -2,6 +2,7 @@
 layout: default
 lang: fr
 title: Nos traitements
+description: Une grande partie des spécialités de la médecine dentaire sont représentées dans notre cabinet afin de pouvoir offrir à nos patients les meilleures solutions.
 slug: treatments
 ---
 

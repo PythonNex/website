@@ -16,19 +16,19 @@
         {% stylesheet application %}
     </head>
     <body>
-      <div id="wrap">
+      <div id="wrap" itemscope itemtype="http://schema.org/LocalBusiness">
         <div class="header">
           <div class="container">
             <div class="row hidden-xs top-header">
               <div class="col-sm-4">
                 <div class="title">
                   <a class="extra" href="/{{ page.lang }}">
-                    <img src="{{ 'logo-big.png' | asset_path }}" alt="Cabinet Dentaire Barthelemy" />
+                    <img src="{{ 'logo-big.png' | asset_path }}" alt="Cabinet Dentaire Barthelemy" itemprop="logo" />
                   </a>
                 </div>
               </div>
               <div class="col-sm-4">
-                {% include contact_header.html %}
+                {% include phone.html %}
                 {% if page.lang == 'en' %}
                   <a href="/en/contact-us.html">Opening hours</a>
                 {% else %}
@@ -36,7 +36,7 @@
                 {% endif %}
               </div>
               <div class="col-sm-4">
-                {% include address_header.html %}
+                {% include address.html %}
               </div>
             </div>
             {% include navigation.html %}

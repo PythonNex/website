@@ -15,15 +15,15 @@ slug: contact
     <table class="table">
       <tr>
         <th>Lundi</th>
-        <td itemprop="openingHours" content="Mo 10:00-20:00">10h - 20h</td>
+        <td itemprop="openingHours" content="Mo 08:00-17:00">8h - 17h</td>
       </tr>
       <tr>
         <th>Mardi</th>
-        <td itemprop="openingHours" content="Tu-Fr 08:00-17:00">8h - 17h</td>
+        <td itemprop="openingHours" content="Tu 08:00-19:00">8h - 19h</td>
       </tr>
       <tr>
         <th>Mercredi</th>
-        <td>8h - 17h</td>
+        <td>8h - 18h</td>
       </tr>
       <tr>
         <th>Jeudi</th>

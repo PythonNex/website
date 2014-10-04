@@ -57,6 +57,11 @@ a.navbar-brand img {
 div.footer {
   margin: 40px 0;
 }
+div.footer .container {
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
 div.footer div.change-language {
   text-align: right;
 }
@@ -66,10 +71,29 @@ div.footer div.social {
 }
 div.footer div.social a {
   margin-right: 10px;
+
+  @media (max-width:400px) {
+    margin-right: 0;
+  }
 }
+
 div.footer div.social a:hover {
   text-decoration: none;
 }
 div.footer div.social a img {
   width: 22px;
+}
+
+
+//
+// Bootstrap hack
+//
+span.hidden-xs {
+  display: inline !important;
+}
+
+@media (max-width: 767px) {
+span.hidden-xs {
+  display: none!important;
+ }
 }

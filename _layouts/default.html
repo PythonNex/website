@@ -11,6 +11,9 @@
         <meta property="og:image" content="http://www.dentistebarthelemy.ch{{ 'logo-big.png' | asset_path }}">
         <meta property="og:locale" content="{{ page.lang }}">
 
+        <link rel="shortcut icon" href="{{ 'favicon.ico' | asset_path }}" type="image/x-icon">
+        <link rel="icon" href="{{ 'favicon.ico' | asset_path }}" type="image/x-icon">
+
         {% stylesheet application %}
     </head>
     <body data-version="{{ site.time | date_to_xmlschema }}">

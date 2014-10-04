@@ -4,6 +4,7 @@ url: http://dentistebarthelemy.ch
 markdown: redcarpet
 highlighter: true
 include: ['fr', 'en', 'assets', 'photos', 'fonts']
+gmap_url: https://www.google.ch/maps/place/Rue+Juste+Olivier+8,+1260+Nyon/@46.3838521,6.2366358,17z/data=!3m1!4b1!4m2!3m1!1s0x478c42d818c5f593:0x1d2c0e5634de099?hl=en
 assets:
   js_compressor:  uglifier
   css_compressor: sass

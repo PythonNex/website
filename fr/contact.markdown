@@ -45,8 +45,16 @@ slug: contact
       <li>Parking Perdtemps à 150 m</li>
       <li>1 minute à pied de la gare</li>
     </ul>
-    <a href="https://maps.google.ch/maps?f=q&source=s_q&hl=fr&geocode=&q=Rue+Juste-Olivier+8,+1260+Nyon&aq=&sll=46.44716,6.449102&sspn=0.81848,2.113495&t=m&ie=UTF8&hq=&hnear=Rue+Juste+Olivier+8,+1260+Nyon,+Vaud&z=16&iwloc=A&output=embed" itemprop="map">
-      <img src="/photos/map.jpg" alt="Nous trouver" />
-    </a>
+
+    <p>
+      <a href="{{ site.gmap_url }}" itemprop="map" class="hidden-xs">
+        <img src="/photos/map.jpg" alt="Nous trouver" />
+      </a>
+    </p>
+
+    <p class="hidden-xs"><a href="{{ site.gmap_url }}">Ouvrir dans Google map</a></p>
+    <p class="visible-xs">
+      <a href="{{ site.gmap_url }}" class="btn btn-default btn-block">Ouvrir dans Google map</a>
+    </p>
   </div>
 </div>

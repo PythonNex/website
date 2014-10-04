@@ -2,7 +2,7 @@ name: Cabinet Dentaire Barthelemy
 short_name: Dentiste Barthelemy
 url: http://dentistebarthelemy.ch
 markdown: redcarpet
-pygments: true
+highlighter: true
 include: ['fr', 'en', 'assets', 'photos', 'fonts']
 assets:
   js_compressor:  uglifier

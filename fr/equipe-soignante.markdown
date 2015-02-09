@@ -41,6 +41,26 @@ published: true
   </div>
   <div class="col-sm-10">
     <h4 class="media-heading">Carla</h4>
-    Assistante dentaire diplômée en 1985
+    <p>Assistante dentaire</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/shqipe.jpg" alt="Shqipe">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Shqipe Kabashi</h4>
+    <p>Assistante dentaire</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/manon.jpg" alt="Manon">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Manon Fleury</h4>
+    <p>Apprentie assistante dentaire</p>
   </div>
 </div>

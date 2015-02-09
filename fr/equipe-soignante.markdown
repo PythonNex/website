@@ -4,6 +4,7 @@ lang: fr
 title: Equipe soignante
 description: Découvrez votre équipe soignate
 slug: team
+published: true
 ---
 
 <h1>Equipe soignante</h1>
@@ -21,6 +22,16 @@ slug: team
     Pratique privée dans une clinique à Morges de 2009 à 2013<br />
     Dentiste à la clinique de la jeunesse de Genève depuis 2006 à temps partiel<br />
     Soins sous anesthésie générale pour le HUG hôpital des enfants
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/catherine.jpg" alt="Catherine">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Catherine Labbé</h4>
+    <p>Hygiéniste dentaire</p>
   </div>
 </div>
 

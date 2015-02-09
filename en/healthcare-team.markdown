@@ -40,7 +40,7 @@ published: true
     <img src="/photos/team/carla.jpg" alt="Carla">
   </div>
   <div class="col-sm-10">
-    <h4 class="media-heading">Carla</h4>
+    <h4 class="media-heading">Carla Celerin</h4>
     <p>Dental assistant</p>
   </div>
 </div>

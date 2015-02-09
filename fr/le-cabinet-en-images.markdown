@@ -26,8 +26,6 @@ published: true
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">
       <img src="/photos/reception.jpg" alt="Réception" />
@@ -44,8 +42,6 @@ published: true
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">
       <img src="/photos/salle-de-traitements.jpg" alt="Salle de traitements" />

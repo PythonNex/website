@@ -28,6 +28,14 @@ published: true
   </div>
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">
+      <img src="/photos/entree-cabinet2.jpg" alt="Entrée" />
+      <div class="caption">
+        <p>L'entrée du Cabinet Dentaire Barthelemy</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-sm-6">
+    <div class="thumbnail">
       <img src="/photos/reception.jpg" alt="Réception" />
       <div class="caption">
         <p>Réception</p>
@@ -36,9 +44,9 @@ published: true
   </div>
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">
-      <img src="/photos/salle-attente.jpg" alt="Sale d'attente" />
+      <img src="/photos/reception2.jpg" alt="Réception" />
       <div class="caption">
-        <p>Salle d'attente</p>
+        <p>Réception</p>
       </div>
     </div>
   </div>

@@ -11,10 +11,10 @@ published: true
 
 <div class="row team">
   <div class="col-sm-2">
-    <img class="media-object" src="/photos/team/dr_barthelemy.jpg" alt="Dr JONATHAN BARTHELEMY">
+    <img class="media-object" src="/photos/team/dr_barthelemy.jpg" alt="Dr Jonathan Barthelemy">
   </div>
   <div class="col-sm-10">
-    <h4 class="media-heading"><h3>Dr JONATHAN BARTHELEMY</h3></h4>
+    <h4 class="media-heading"><h3>Dr Jonathan Barthelemy</h3></h4>
     General dentist
     Graduated at the faculty of Dentistry, Liege (BE) 2006<br />
     Assistantship in endodontic at Geneva University from 2006 to 2009<br />

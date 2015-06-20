@@ -4,7 +4,9 @@ lang: en
 title: Contact us
 description: Contact us and find our opening hours
 slug: contact
+published: true
 ---
+
 
 <div class="row">
   <div class="col-md-5">
@@ -15,7 +17,7 @@ slug: contact
     <table class="table">
       <tr>
         <th>Monday</th>
-        <td itemprop="openingHours" content="Mo 10:00-20:00">8am - 7pm</td>
+        <td itemprop="openingHours" content="Mo 10:00-20:00">8am - 5pm</td>
       </tr>
       <tr>
         <th>Tuesday</th>

@@ -13,6 +13,7 @@ published: true
     <h4 itemprop="name">Cabinet Dentaire Barthelemy</h4>
     {% include full-address.html %}
 
+
     <h4>Opening hours</h4>
     <table class="table">
       <tr>

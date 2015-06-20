@@ -57,6 +57,14 @@ a.navbar-brand img {
   height: 40px;
 }
 
+.navbar-brand > img {
+  display: inline;
+}
+
+.inline {
+  display: inline;
+}
+
 /** FOOTER */
 div.footer {
   margin: 40px 0;

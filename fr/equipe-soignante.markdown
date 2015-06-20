@@ -7,6 +7,7 @@ slug: team
 published: true
 ---
 
+
 <h1>Equipe soignante</h1>
 
 <div class="row team">
@@ -20,7 +21,7 @@ published: true
     Assistant à l'Université de Genève en endodontie de 2006 à 2009<br />
     Doctorat à l'Université de Genève en 2009<br />
     Pratique privée dans une clinique à Morges de 2009 à 2013<br />
-    Dentiste à la clinique de la jeunesse de Genève depuis 2006 à temps partiel<br />
+    Dentiste à la clinique de la jeunesse de Genève<br />
     Soins sous anesthésie générale pour le HUG hôpital des enfants
   </div>
 </div>

@@ -1,3 +1,11 @@
+---
+layout: default
+lang: fr
+title: Tarifs
+description: Les tarifs de soins au Cabinet dentaire Barthelemy
+slug: tarifs
+---
+
 # Les tarifs de soins
 
 - La valeur du point appliquée est de 3.70 et 3.80 pour le parodontologue

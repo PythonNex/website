@@ -7,6 +7,7 @@ slug: team
 published: true
 ---
 
+
 #Healthcare team
 
 <div class="row team">
@@ -14,14 +15,29 @@ published: true
     <img class="media-object" src="/photos/team/dr_barthelemy.jpg" alt="Dr Jonathan Barthelemy">
   </div>
   <div class="col-sm-10">
-    <h4 class="media-heading"><h3>Dr Jonathan Barthelemy</h3></h4>
-    General dentist
+    <h4 class="media-heading">Dr Jonathan Barthelemy</h4>
+    General dentist<br />
     Graduated at the faculty of Dentistry, Liege (BE) 2006<br />
     Assistantship in endodontic at Geneva University from 2006 to 2009<br />
     Received a doctorate from the Geneva University in 2009<br />
     Private practice for a clinic in Morges from 2009 to 2013<br />
-    Pediatric dentist for Yout Dental clinic of Geneva since 2006 (part time)<br />
+    Pediatric dentist for Yout Dental clinic of Geneva<br />
     Care under anesthesia general for children hospital of HUG
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/piero.jpg" alt="Piero">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Dr Piero Parisini</h4>
+    Aesthetic dentist<br />
+    Graduated at the faculty of Dentistry, Parma (IT) 2007<br />
+    Master in advanced Studies in Oral Biology<br />
+    Visiting Ressearcher in University of South California<br />
+    Postgrade Course in Recoustructive Dentistry UNIGE<br />
+    Master in Microinvasive Aesthetic Dentistry UNIGE
   </div>
 </div>
 

@@ -9,7 +9,7 @@ published: true
 
 # Treatment costs
 
-- The point value applied is 3.70 and 3.80 for periodontist
+- The point value applied is 3.80 for periodontist
 - The point value for LAMal, accidents, CSR and PC/AVS is 3.10
 - We apply the rates set by the SSO.
 

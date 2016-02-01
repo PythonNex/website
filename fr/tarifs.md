@@ -11,7 +11,7 @@ published: true
 
 # Les tarifs de soins
 
-- La valeur du point appliquée est de 3.70 et 3.80 pour le parodontologue
+- La valeur du point appliquée est de 3.80 pour le parodontologue
 - La valeur du point pour la Lamal, accident, CSR, PC/AVS est de 3.10
 - Nous suivons la tarification SSO
 

@@ -36,8 +36,7 @@ published: true
     Graduated at the faculty of Dentistry, Parma (IT) 2007<br />
     Master in advanced Studies in Oral Biology<br />
     Visiting Ressearcher in University of South California<br />
-    Postgrade Course in Recoustructive Dentistry UNIGE<br />
-    Master in Microinvasive Aesthetic Dentistry UNIGE
+    Postgrade Course in Recoustructive Dentistry UNIGE
   </div>
 </div>
 

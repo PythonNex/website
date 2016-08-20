@@ -36,7 +36,7 @@ published: true
     Dentisterie esthétique, diplômé en 2007 à l'Université de Parme (IT)<br />
     Master en biologie orale Université de Genève<br />
     Chercheur à l'Université de Southern California (USA)<br />
-    Postgrade de Médecine Dentaire Reconstructrice UNIGE<br />
+    Postgrade de Médecine Dentaire Reconstructrice UNIGE
   </div>
 </div>
 

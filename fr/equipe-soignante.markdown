@@ -37,7 +37,6 @@ published: true
     Master en biologie orale Université de Genève<br />
     Chercheur à l'Université de Southern California (USA)<br />
     Postgrade de Médecine Dentaire Reconstructrice UNIGE<br />
-    Master de Médecine Dentaire Esthétique UNIGE
   </div>
 </div>
 

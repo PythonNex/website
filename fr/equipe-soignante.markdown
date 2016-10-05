@@ -28,6 +28,17 @@ published: true
 
 <div class="row team">
   <div class="col-sm-2">
+    <img src="/photos/team/shirly.jpg" alt="Shirly">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Shirly Bendrihem</h4>
+    <p>Médecin-dentiste</p>
+    <p>Omnipraticienne diplômée en 2016 à l'université de Genève</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
     <img src="/photos/team/piero.jpg" alt="Piero">
   </div>
   <div class="col-sm-10">
@@ -46,6 +57,16 @@ published: true
   </div>
   <div class="col-sm-10">
     <h4 class="media-heading">Catherine Labbé</h4>
+    <p>Hygiéniste dentaire</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/jennifer.jpg" alt="Jennifer">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Jennifer Le</h4>
     <p>Hygiéniste dentaire</p>
   </div>
 </div>
@@ -72,10 +93,30 @@ published: true
 
 <div class="row team">
   <div class="col-sm-2">
+    <img src="/photos/team/anna.jpg" alt="Anna">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Anna Rufenacht</h4>
+    <p>Assistante dentaire</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
     <img src="/photos/team/manon.jpg" alt="Manon">
   </div>
   <div class="col-sm-10">
     <h4 class="media-heading">Manon Fleury</h4>
+    <p>Apprentie assistante dentaire</p>
+  </div>
+</div>
+
+<div class="row team">
+  <div class="col-sm-2">
+    <img src="/photos/team/selam.jpg" alt="Selamawit">
+  </div>
+  <div class="col-sm-10">
+    <h4 class="media-heading">Selamawit Bekele</h4>
     <p>Apprentie assistante dentaire</p>
   </div>
 </div>

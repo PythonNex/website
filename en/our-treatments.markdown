@@ -13,6 +13,7 @@ All dental medicine specialities are covered in order to offer our patients the 
  * General and conservative dentistry
  * Adhesive and esthetic dentistry
  * Ceramic and composite resin veneer
+ * Composite resin veneer (carved technique)
  * Root canal treatment
  * Hygienist and dental cleaning
  * Teeth whitening (homebleaching or in office bleaching)

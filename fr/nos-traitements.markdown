@@ -9,6 +9,7 @@ slug: treatments
 # Nos Traitements
  
 Toutes les spécialités de la médecine dentaire sont représentées dans notre cabinet afin de pouvoir offrir à nos patients les meilleures solutions.
+
  * Dentisterie générale et conservatrice
  * Dentisterie adhésive et esthétique
  * Facettes céramique et composite

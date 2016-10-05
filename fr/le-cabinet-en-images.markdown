@@ -10,14 +10,6 @@ published: true
 <h1>Le cabinet en images</h1>
 
 <div class="row">
-  <div class="col-md-12 col-sm-12">
-    <div class="thumbnail">
-      <img src="/photos/equipe-du-cabinet.jpg" alt="L'équipe du cabinet dentaire Barthelemy" />
-      <div class="caption">
-        <p>L'équipe du Cabinet Dentaire Barthelemy</p>
-      </div>
-    </div>
-  </div>
   <div class="col-md-6 col-sm-6">
     <div class="thumbnail">
       <img src="/photos/entree-cabinet.jpg" alt="Entrée" />

@@ -32,8 +32,8 @@ published: true
   </div>
   <div class="col-sm-10">
     <h4 class="media-heading">Shirly Bendrihem</h4>
-    <p>Médecin-dentiste</p>
-    <p>Omnipraticienne diplômée en 2016 à l'université de Genève</p>
+    Médecin-dentiste<br />
+    Omnipraticienne diplômée en 2016 à l'université de Genève
   </div>
 </div>
 

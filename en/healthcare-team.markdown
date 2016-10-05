@@ -21,7 +21,7 @@ published: true
     Assistantship in endodontic at Geneva University from 2006 to 2009<br />
     Received a doctorate from the Geneva University in 2009<br />
     Private practice for a clinic in Morges from 2009 to 2013<br />
-    Pediatric dentist for Yout Dental clinic of Geneva<br />
+    Pediatric dentist for Youth Dental clinic of Geneva<br />
     Care under anesthesia general for children hospital of HUG
   </div>
 </div>

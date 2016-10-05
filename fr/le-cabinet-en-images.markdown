@@ -38,7 +38,7 @@ published: true
     <div class="thumbnail">
       <img src="/photos/reception2.jpg" alt="Réception" />
       <div class="caption">
-        <p>Réception</p>
+        <p>Salle d'attente</p>
       </div>
     </div>
   </div>

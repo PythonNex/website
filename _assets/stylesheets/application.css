@@ -10,6 +10,10 @@ h1 {
   font-size: 30px;
 }
 
+a {
+  color: #435892;
+}
+
 div.container {
   max-width: 1000px;
 }

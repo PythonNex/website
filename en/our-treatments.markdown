@@ -28,4 +28,4 @@ All dental medicine specialities are covered in order to offer our patients the 
  * Full mouth rehabilitation complex cases
  * Temporomandibular joint disorders treatment
 
-The expert service offered by our dental office is based on the concept of quality. We mainly work with the best suppliers and laboratories.
+The expert service offered by our dental office is based on the concept of quality. We mainly work with the best suppliers and swiss laboratories.

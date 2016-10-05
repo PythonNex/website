@@ -113,10 +113,10 @@ published: true
 
 <div class="row team">
   <div class="col-sm-2">
-    <img src="/photos/team/salema.jpg" alt="Salemawit">
+    <img src="/photos/team/selam.jpg" alt="Selamawit">
   </div>
   <div class="col-sm-10">
-    <h4 class="media-heading">Salemawit Bekele</h4>
+    <h4 class="media-heading">Selamawit Bekele</h4>
     <p>Dental assistant apprentice</p>
   </div>
 </div>
